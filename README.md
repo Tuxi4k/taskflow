@@ -234,4 +234,4 @@ task test
 
 ## Лицензия
 
-[MIT](License.md)
+[MIT](License)
