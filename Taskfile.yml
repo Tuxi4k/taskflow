@@ -1,0 +1,10 @@
+version: "3"
+
+tasks:
+  dev:
+    desc: "Режим разработки"
+    cmd: "gow run cmd/main.go"
+
+  test:
+    desc: "Тестирование"
+    cmd: "go test ./... | grep -v '?'"
