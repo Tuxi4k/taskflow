@@ -3,7 +3,7 @@ package task_test
 import (
 	"testing"
 
-	"taskflow/internal/modules/task"
+	"github.com/Tuxi4k/taskflow/internal/modules/task"
 
 	"github.com/stretchr/testify/assert"
 	"gorm.io/driver/sqlite"

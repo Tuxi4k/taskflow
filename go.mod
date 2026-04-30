@@ -1,4 +1,4 @@
-module taskflow
+module github.com/Tuxi4k/taskflow
 
 go 1.26.1
 

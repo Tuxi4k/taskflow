@@ -1,7 +1,7 @@
 package database
 
 import (
-	"taskflow/internal/modules/task"
+	"github.com/Tuxi4k/taskflow/internal/modules/task"
 
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"

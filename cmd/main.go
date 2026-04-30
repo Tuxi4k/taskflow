@@ -2,8 +2,8 @@ package main
 
 import (
 	"log"
-	"taskflow/internal/database"
-	"taskflow/internal/modules/task"
+	"github.com/Tuxi4k/taskflow/internal/database"
+	"github.com/Tuxi4k/taskflow/internal/modules/task"
 
 	"github.com/Tuxi4k/swaggen"
 	"github.com/gofiber/fiber/v2"

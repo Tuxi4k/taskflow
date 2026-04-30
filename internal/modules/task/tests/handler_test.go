@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"testing"
 
-	"taskflow/internal/modules/task"
+	"github.com/Tuxi4k/taskflow/internal/modules/task"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/stretchr/testify/assert"
